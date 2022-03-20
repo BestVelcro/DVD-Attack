@@ -1,0 +1,1 @@
+owner.my_buttom = variable_global_get(buttom_type);

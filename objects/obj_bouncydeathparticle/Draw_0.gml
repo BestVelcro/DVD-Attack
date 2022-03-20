@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_bouncydeathparticle,frame,x,y,1,1,direction,draw_color,alpha);

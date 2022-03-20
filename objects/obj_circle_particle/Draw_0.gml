@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_shockwave_particle,image_index,x,y,1,1,0,choosen_color,1);

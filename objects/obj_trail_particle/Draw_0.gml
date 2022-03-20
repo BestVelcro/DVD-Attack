@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_bouncyobject,0,x,y,1,1,image_angle,my_color,dvd_alpha);
